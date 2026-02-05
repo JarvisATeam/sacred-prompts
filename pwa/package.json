@@ -1,0 +1,8 @@
+{
+  "name": "sacred-prompts-pwa",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "preview": "python3 -m http.server 4173"
+  }
+}
